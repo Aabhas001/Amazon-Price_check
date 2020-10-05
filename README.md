@@ -1,1 +1,2 @@
-# Amazon-Proce_check
+# Amazon-Price_check
+Notify user when price of a product changes.
